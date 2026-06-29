@@ -1,0 +1,1 @@
+/Volumes/XBRYMO/inverter_gateway/build/quickjs_engine/intermediates/cxx/Debug/3w5v44j5/obj/arm64-v8a

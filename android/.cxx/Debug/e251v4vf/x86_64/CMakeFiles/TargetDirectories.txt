@@ -1,0 +1,3 @@
+/Volumes/XBRYMO/inverter_gateway/packages/quickjs_engine/android/.cxx/Debug/e251v4vf/x86_64/CMakeFiles/quickjs_c_bridge_plugin.dir
+/Volumes/XBRYMO/inverter_gateway/packages/quickjs_engine/android/.cxx/Debug/e251v4vf/x86_64/CMakeFiles/edit_cache.dir
+/Volumes/XBRYMO/inverter_gateway/packages/quickjs_engine/android/.cxx/Debug/e251v4vf/x86_64/CMakeFiles/rebuild_cache.dir

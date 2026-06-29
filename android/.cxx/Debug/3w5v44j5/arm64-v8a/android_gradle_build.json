@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/Users/resc/.pub-cache/hosted/pub.dev/quickjs_engine-0.1.1/native/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/resc/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/resc/.pub-cache/hosted/pub.dev/quickjs_engine-0.1.1/android/.cxx/Debug/3w5v44j5/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/resc/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/resc/.pub-cache/hosted/pub.dev/quickjs_engine-0.1.1/android/.cxx/Debug/3w5v44j5/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "quickjs_c_bridge_plugin::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "quickjs_c_bridge_plugin",
+      "output": "/Volumes/XBRYMO/inverter_gateway/build/quickjs_engine/intermediates/cxx/Debug/3w5v44j5/obj/arm64-v8a/libquickjs_c_bridge_plugin.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/resc/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/resc/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

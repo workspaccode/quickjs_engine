@@ -1,0 +1,3 @@
+/Users/resc/.pub-cache/hosted/pub.dev/quickjs_engine-0.1.1/android/.cxx/Debug/3w5v44j5/arm64-v8a/CMakeFiles/quickjs_c_bridge_plugin.dir
+/Users/resc/.pub-cache/hosted/pub.dev/quickjs_engine-0.1.1/android/.cxx/Debug/3w5v44j5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/resc/.pub-cache/hosted/pub.dev/quickjs_engine-0.1.1/android/.cxx/Debug/3w5v44j5/arm64-v8a/CMakeFiles/rebuild_cache.dir
