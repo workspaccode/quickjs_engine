@@ -1,0 +1,7 @@
+# ninja log v5
+0	191	1782801371304481288	CMakeFiles/quickjs_c_bridge_plugin.dir/cxx/libfastdev_quickjs_runtime.cpp.o	a15ab08d8f8110c3
+2	439	1782801371507496102	CMakeFiles/quickjs_c_bridge_plugin.dir/cxx/quickjs/dtoa.c.o	b6488f4d732d7492
+1	754	1782801371865716521	CMakeFiles/quickjs_c_bridge_plugin.dir/cxx/quickjs/libunicode.c.o	c6b502e2bd814ec9
+1	867	1782801371978634678	CMakeFiles/quickjs_c_bridge_plugin.dir/cxx/quickjs/libregexp.c.o	b6c47f92e2f00aa3
+1	24630	1782801395535286469	CMakeFiles/quickjs_c_bridge_plugin.dir/cxx/quickjs/quickjs.c.o	2e3b901c9dfe1dbb
+24631	24835	1782801395936257887	/Volumes/XBRYMO/inverter_gateway/build/quickjs_engine/intermediates/cxx/RelWithDebInfo/6d1673z4/obj/arm64-v8a/libquickjs_c_bridge_plugin.so	fb81dcfe5d19d74f

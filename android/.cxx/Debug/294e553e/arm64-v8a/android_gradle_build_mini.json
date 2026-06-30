@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Volumes/XBRYMO/inverter_gateway/quickjs_engine/native/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/resc/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Volumes/XBRYMO/inverter_gateway/quickjs_engine/android/.cxx/Debug/294e553e/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/resc/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Volumes/XBRYMO/inverter_gateway/quickjs_engine/android/.cxx/Debug/294e553e/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "quickjs_c_bridge_plugin::@6890427a1f51a3e7e1df": {
+      "artifactName": "quickjs_c_bridge_plugin",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/XBRYMO/inverter_gateway/build/quickjs_engine/intermediates/cxx/Debug/294e553e/obj/arm64-v8a/libquickjs_c_bridge_plugin.so",
+      "runtimeFiles": []
+    }
+  }
+}

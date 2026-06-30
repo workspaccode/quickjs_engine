@@ -1,0 +1,3 @@
+/Volumes/XBRYMO/inverter_gateway/quickjs_engine/android/.cxx/RelWithDebInfo/6d1673z4/armeabi-v7a/CMakeFiles/quickjs_c_bridge_plugin.dir
+/Volumes/XBRYMO/inverter_gateway/quickjs_engine/android/.cxx/RelWithDebInfo/6d1673z4/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/XBRYMO/inverter_gateway/quickjs_engine/android/.cxx/RelWithDebInfo/6d1673z4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
